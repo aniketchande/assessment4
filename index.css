@@ -1,0 +1,45 @@
+.class1{
+    color: rgb(226, 14, 14);
+}
+.class2{
+    color: red;
+    font-style: italic;
+}
+.class3{
+    color: #890a0a;
+    font-size: large;
+}
+
+.class4{
+    text-decoration-line: underline;
+    font-style: italic;
+}
+.class5{
+    letter-spacing: 8px;
+    color: rgb(128, 9, 9);
+    font-size: large;
+}
+.class6{
+    color: darkred;
+}
+.class7{
+    color: darkred;
+}
+.class8{
+    color: darkred;
+}
+.class9{
+    font-style: italic;
+    background-color: yellow;
+    text-decoration: none;
+    color: red;
+}
+.class10{
+    font-weight: bold;
+    text-decoration-line: line-through;
+
+}
+.class11{
+    font-weight: bold; background-color: yellow;
+
+} 
